@@ -1,0 +1,3 @@
+[submodule "IUSBTransport"]
+	path = IUSBTransport
+	url = /home/ekin/Workspace/LIBS/iCharger/IUSBTransport
